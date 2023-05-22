@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall-cache/mall-cache.iml" filepath="$PROJECT_DIR$/mall-cache/mall-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manage-service/mall-manage-service.iml" filepath="$PROJECT_DIR$/mall-manage-service/mall-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-mbg/mall-mbg.iml" filepath="$PROJECT_DIR$/mall-mbg/mall-mbg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-mq/mall-mq.iml" filepath="$PROJECT_DIR$/mall-mq/mall-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-portal-service/mall-portal-service.iml" filepath="$PROJECT_DIR$/mall-portal-service/mall-portal-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-search/mall-search.iml" filepath="$PROJECT_DIR$/mall-search/mall-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-system.iml" filepath="$PROJECT_DIR$/mall-system.iml" />
+    </modules>
+  </component>
+</project>
